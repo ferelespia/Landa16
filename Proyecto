@@ -1,0 +1,94 @@
+<html>
+<head>
+<title>Biologia</Title>
+</head>
+
+<body font color="aqua">
+<body vlink="red">
+<Font face="Arial">
+<table class="proyecto">
+<table width="100%" border="3" cellpading="0" bordercolor="green">
+<tr fontcolor="white" bgcolor="cofee">
+
+	<th> <i><h1> Ecologia </h1>
+	 <h2>"el uso responsable"</h2></i> </th>
+     
+</tr>
+<table width="100%" border="1" cellpading="2" bordercolor="green">
+
+<tr align="center" valign="bottom">
+
+	<td bgcolor="#F2F6F6"><a href="proyecto.html">Inicio</a></td>
+	
+	<td bgcolor="#F2F6F6"><Font color="#A4A6A6">Categorias</font><br>
+	<form name="Categorias" method="post">
+	<select name="categorias" size="1">
+	<option value="a"> <a href="proyecto.html">Ecologia</option>
+	<option value="c"><a href="https://es.khanacademy.org/math/integral-calculus">Calculo</a></option>
+	<option value="f"><a href="https://es.khanacademy.org/science/physics">Fisica</a></option>
+	</select>
+	 
+	 <input type="submit" value="enviar"></form>
+
+	</td>
+	
+	<td bgcolor="#F2F6F6"><Font color="#A4A6A6"><a href="http://www.youtube.com">Videos</font></a></td>
+	<td bgcolor="#F2F6F6"><font color="#A4A6A6"><a href="http://www.facebook.com">Acerca de: </font>
+	</td>
+	
+	<form name="Contacto" method="post">
+	<td bgcolor="#E3E5E5"><font color="#A4A6A6">Contacto</font><br>
+	<select name="categorias" size="1">
+	<option value="https:facebook.com">Facebook</option>
+	<option value="https://www.google.com/gmail/">Gmail</option>
+	<option value="https://contacts.google.com/">Telefonos</option>
+	</select>
+	
+	 <input type="submit"></td></form>
+</tr>
+
+<tr>
+	<td colspan="4">
+	
+	<h2>Inicio:</h2><br>
+	<h2>DEFINICIÓN DE ECOLOGÍA</h2><br><br>
+
+<div style="text-align:justify"><img src="data:image/jpeg;base64,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" align="right" > Ecología es la rama de las ciencias biológicas que se ocupa de las interacciones entre los organismos y su ambiente (sustancias químicas y factores físicos). 
+
+Los organismos vivientes se agrupan como factores bióticos del ecosistema; por ejemplo, las bacterias, los hongos, los protozoarios, las plantas, los animales, etc. En pocas palabras, los factores bióticos son todos los seres vivientes en un ecosistema o, más universalmente, en la biosfera.
+
+Por otra parte, los factores químicos y los físicos se agrupan como factores abióticos del ecosistema. Esto incluye a todo el ambiente inerte; por ejemplo, la luz, el agua, el nitrógeno, las sales, el alimento, el calor, el clima, etc. Luego pues, los factores abióticos son los elementos no vivientes en un ecosistema o en la biosfera.
+
+La ecología es una ciencia multidisciplinaria que recurre a la Biología, la Climatología, la Ingeniería Química, la Mecánica, la Ética, etc.
+</div>
+	
+	</td>
+	
+	<td colspan="1" rowspan="3" width="30%" height="50%">
+	<h3>Buscar:</h3>
+	<form action="buscar" method="post">
+	<input type="search" name="buscar">
+	</form>
+	<hr>
+	<h3>Video:</h3>
+	<iframe width="460" height="255" src="https://www.youtube.com/embed/qvE4CiEIpFM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<hr>
+	<h3>Contacto:<h3><br>
+	<a title="facebook" href="https://www.facebook.com/groups/337551976695070/"><img src="https://scontent.fntr7-1.fna.fbcdn.net/v/t1.0-9/59295088_2162581853797588_7071426081042989056_n.png?_nc_cat=1&_nc_ht=scontent.fntr7-1.fna&oh=ce3e80bc9cded7391dbe9faddf079784&oe=5D2E51FB" width="50" height="50">      </a>
+
+	<a title="Gmail" href="https://Gmail.com"><img src="https://scontent.fntr7-1.fna.fbcdn.net/v/t1.0-9/20799984_10155635936414294_5838433991687164722_n.png?_nc_cat=1&_nc_ht=scontent.fntr7-1.fna&oh=59aa78b12e464ff034626e69fb6817eb&oe=5D70660F" width="50" height="50"></a>
+<br>
+	<a href="https://www.facebook.com/profile.php?id=100008680335511">
+</tr>
+</td>
+<table border="0">
+<center><h2>Comentarios:</center></h2>
+	<form method="post" action="proyecto.html">
+	<textarea cols="20" rows="5" name="comentario">
+	</textarea>
+	<input type="submit">
+	</form>
+</td>
+	
+</body>
+</html>
